@@ -1,9 +1,11 @@
+/* När du använder * { ändrar du grunden av hela webbsidans element och taggar. Bra om man vill att allt ska ha en särskilt typsnitt e.dyl. */
+
 * {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
 }
 
-
+/*Använd dessa .wrapper för att skapa en sida med flera olika div-rutor. Du får självklart experimentera här */
 
 .wrapper {
     display: flex;
